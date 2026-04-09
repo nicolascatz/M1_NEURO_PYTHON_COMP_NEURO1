@@ -2,3 +2,6 @@
 
 
 Here find the notebook of the 2 first practical sessions... Python for beginners
+
+
+N.Catz and M. Gilson
